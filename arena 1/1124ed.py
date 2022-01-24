@@ -1,0 +1,2 @@
+Y = input("")
+print(Y)
